@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775479745 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.4\src\templates.cpp
+	"Templates.h"
+	<iostream>
+	<string>
+
+1775479709 c:\users\hp\onedrive\desktop\c++ program\practical 3.4\include\templates.h
+	<iostream>
+	<string>
+
+1775479890 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.4\main.cpp
+	"Templates.h"
+	<iostream>
+	<string>
+

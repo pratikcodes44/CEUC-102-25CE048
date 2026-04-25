@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775481451 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.5\main.cpp
+	"SuperDigit.h"
+	<iostream>
+	<string>
+
+1775481800 c:\users\hp\onedrive\desktop\c++ program\practical 3.5\include\superdigit.h
+	<iostream>
+	<string>
+
+1775481559 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.5\src\superdigit.cpp
+	"SuperDigit.h"
+	<iostream>
+	<string>
+

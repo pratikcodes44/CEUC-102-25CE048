@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775296772 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.3\main.cpp
+	"BankAccount.h"
+	<iostream>
+	<string>
+
+1775296837 c:\users\hp\onedrive\desktop\c++ program\practical 3.3\include\bankaccount.h
+	<iostream>
+	<string>
+
+1775296745 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.3\src\bankaccount.cpp
+	"BankAccount.h"
+	<iostream>
+	<string>
+

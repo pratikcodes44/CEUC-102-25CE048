@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1775294552 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.1\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+
+1775294390 c:\users\hp\onedrive\desktop\c++ program\practical 3.1\include\employee.h
+	<iostream>
+	<string>
+
+1775294856 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.1\main.cpp
+	"Employee.h"
+	<iostream>
+	<string>
+

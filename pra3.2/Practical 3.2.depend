@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1775295860 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.2\main.cpp
+	"ArraySum.h"
+	<iostream>
+	<chrono>
+
+1775295905 c:\users\hp\onedrive\desktop\c++ program\practical 3.2\include\arraysum.h
+	<iostream>
+
+1775295636 source:c:\users\hp\onedrive\desktop\c++ program\practical 3.2\src\arraysum.cpp
+	"ArraySum.h"
+	<iostream>
+
