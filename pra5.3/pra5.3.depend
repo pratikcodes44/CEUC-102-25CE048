@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1777132297 source:d:\c++ codes\pra5.3\src\inverntorysystem.cpp
+	"InverntorySystem.h"
+	<iostream>
+	<fstream>
+
+1777132225 d:\c++ codes\pra5.3\include\inverntorysystem.h
+	<string>
+
