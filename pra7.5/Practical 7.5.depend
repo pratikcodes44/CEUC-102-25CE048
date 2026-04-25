@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1777013991 source:c:\users\hp\onedrive\desktop\c++ program\practical 7.5\main.cpp
+	"GradingSystem.h"
+	<iostream>
+	<vector>
+	<string>
+
+1777013992 c:\users\hp\onedrive\desktop\c++ program\practical 7.5\include\gradingsystem.h
+	<string>
+
+1777014000 source:c:\users\hp\onedrive\desktop\c++ program\practical 7.5\src\gradingsystem.cpp
+	"GradingSystem.h"
+	<iostream>
+
