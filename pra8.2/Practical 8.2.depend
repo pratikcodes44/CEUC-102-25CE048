@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1777015775 source:c:\users\hp\onedrive\desktop\c++ program\practical 8.2\main.cpp
+	"SquareRootCalculator.h"
+	<iostream>
+
+1777015992 c:\users\hp\onedrive\desktop\c++ program\practical 8.2\include\squarerootcalculator.h
+	<exception>
+	<string>
+	<iostream>
+
