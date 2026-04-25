@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1775816615 source:c:\users\hp\onedrive\desktop\c++ program\practical 4.3\dynamic.cpp
+	"Dynamic.h"
+	<iostream>
+
+1775814552 c:\users\hp\onedrive\desktop\c++ program\practical 4.3\dynamic.h
+
+1775816578 source:c:\users\hp\onedrive\desktop\c++ program\practical 4.3\main.cpp
+	"Dynamic.h"
+	<iostream>
+

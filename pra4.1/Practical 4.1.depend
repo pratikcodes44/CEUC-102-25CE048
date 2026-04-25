@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1775472054 source:c:\users\hp\onedrive\desktop\c++ program\practical 4.1\main.cpp
+	"DynamicArray.h"
+	<iostream>
+
+1775472139 c:\users\hp\onedrive\desktop\c++ program\practical 4.1\include\dynamicarray.h
+	<iostream>
+
+1775472046 source:c:\users\hp\onedrive\desktop\c++ program\practical 4.1\src\dynamicarray.cpp
+	"DynamicArray.h"
+	<iostream>
+
