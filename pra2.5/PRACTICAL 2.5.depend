@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1771584721 source:c:\users\hp\onedrive\desktop\c++ program\practical 2.5\main.cpp
+	<iostream>
+	"Loan_account.h"
+
+1771584471 c:\users\hp\onedrive\desktop\c++ program\practical 2.5\loan_account.h
+	<iostream>
+	<string>
+
+1771584477 source:c:\users\hp\onedrive\desktop\c++ program\practical 2.5\loan_account.cpp
+	"Loan_account.h"
+	<iostream>
+	<cmath>
+
